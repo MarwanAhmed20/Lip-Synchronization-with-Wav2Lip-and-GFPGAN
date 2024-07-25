@@ -63,12 +63,15 @@ Here are some examples of the results you can achieve with this integration:
 https://github.com/user-attachments/assets/c68ddc0a-bdb5-4711-9829-6c8c96add1c5
 
 **After Enhancement:**
+
 - result after freezing:
+  
 https://github.com/user-attachments/assets/0d5ce9ca-fe8b-4645-9225-a50ec0b1cc33
 
 - result with many languages: 
 
 https://github.com/user-attachments/assets/d34039ba-f6de-496a-ac76-a5ced2debfaa
+
 https://github.com/user-attachments/assets/a1aaa77f-961c-4aac-b80c-856d981ef94c
 
 https://github.com/user-attachments/assets/9b4812fd-7af8-462f-9720-1b4550de2c99
