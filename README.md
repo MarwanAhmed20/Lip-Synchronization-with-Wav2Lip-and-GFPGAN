@@ -1,4 +1,6 @@
 
+https://github.com/user-attachments/assets/2ede8a8f-5179-4c56-bfd5-9b2d3f4fe91a
+
 # Enhanced Video Lip-Synchronization with Wav2Lip and GFPGAN
 
 This repository provides an integration of Wav2Lip and GFPGAN to enhance the resolution and quality of lip-synchronized videos. This combination leverages the lip-syncing capabilities of Wav2Lip and the image enhancement power of GFPGAN to produce high-quality results. Additionally, a user-friendly interface (UI) notebook is provided for easier interaction with the tools.
@@ -58,29 +60,24 @@ This repository contains two notebooks:
 ## Examples
 Here are some examples of the results you can achieve with this integration:
 
+
+https://github.com/user-attachments/assets/a05ee9cb-ef06-427f-bc2a-a16995774b39
+
+
 **original:**
 
 https://github.com/user-attachments/assets/c68ddc0a-bdb5-4711-9829-6c8c96add1c5
 
 **After Enhancement:**
 
-- result after freezing:
-
-  
-https://github.com/user-attachments/assets/0d5ce9ca-fe8b-4645-9225-a50ec0b1cc33
 
 
-- result with many languages: 
+https://github.com/user-attachments/assets/b77b1de0-4f10-4b63-a5de-ae6f56f34c10
 
 
-https://github.com/user-attachments/assets/d34039ba-f6de-496a-ac76-a5ced2debfaa
-
-https://github.com/user-attachments/assets/a1aaa77f-961c-4aac-b80c-856d981ef94c
-
-https://github.com/user-attachments/assets/9b4812fd-7af8-462f-9720-1b4550de2c99
 
 
-Conclusion 
+## Conclusion 
 The lip-syncing pipeline using Wav2Lip provides a robust solution for synchronizing lip 
 movements in videos with given audio tracks. By following the methodology outlined above, 
 one can achieve high-quality lip synchronization. Integrating additional models like GFPGAN can 
