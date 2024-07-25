@@ -3,7 +3,7 @@
 This repository provides an integration of Wav2Lip and GFPGAN to enhance the resolution and quality of lip-synchronized videos. This combination leverages the lip-syncing capabilities of Wav2Lip and the image enhancement power of GFPGAN to produce high-quality results. Additionally, a user-friendly interface (UI) notebook is provided for easier interaction with the tools.
 
 -------------------------------------------------------------------------------------
-## For user experience use UI Colab Notebook 
+## For user experience use UI Colab Notebook (Recommended)
 |📑 Original Paper|📔 Colab Notebook |📔 UI Colab Notebook 
 |:-:|:-:|:-:|
 [Paper](http://arxiv.org/abs/2008.10010) |  [Colab Notebook](https://colab.research.google.com/drive/1A2lF-OfXBu1k2SsGnQiCZBTmpi-PSDZR?usp=sharing)| [UI Collab Notebook](https://colab.research.google.com/drive/1_6DpJnzU35Rew0LHUJUL2lKD4o-biY5M?usp=sharing)
