@@ -20,17 +20,17 @@ Lip synchronization in videos is crucial for creating realistic and engaging con
 
 ## Features
 - High-Quality Lip Synchronization: Utilizes Wav2Lip for accurate lip-syncing.
-* - Enhanced Visual Quality: Applies GFPGAN to improve the resolution and clarity of videos.
-* - User-Friendly Interface: Includes a UI notebook for easier interaction.
-* - Preprocessing Enhancements: Implements preprocessing steps like freezing mouth movements and trimming audio to enhance the final result.
-* - Easy Integration: Seamlessly combines both models to provide a streamlined workflow.
+- Enhanced Visual Quality: Applies GFPGAN to improve the resolution and clarity of videos.
+- User-Friendly Interface: Includes a UI notebook for easier interaction.
+- Preprocessing Enhancements: Implements preprocessing steps like freezing mouth movements and trimming audio to enhance the final result.
+- Easy Integration: Seamlessly combines both models to provide a streamlined workflow.
 -----------------------------
 ## Preprocessing Enhancements
 To improve the results, several preprocessing steps are implemented:
 
-* - Freeze Mouth Movements(This step helps in stabilizing the mouth movements in the video):
+- Freeze Mouth Movements(This step helps in stabilizing the mouth movements in the video):
 * *  Extract the mouth region from the first frame of the video and use it as a static mouth image for frames where the audio is silent.
-* - Audio Preprocessing: Trims the audio with the pydub library to include only the part where the voice begins and ends. , for ensuring better synchronization.
+- Audio Preprocessing: Trims the audio with the pydub library to include only the part where the voice begins and ends. , for ensuring better synchronization.
     
 -------------------------
 ## Prerequisites
@@ -44,15 +44,15 @@ This repository contains two notebooks:
 
 1- Enhanced Video Lip-Synchronization:
 
-* - Open the Wav2Lip.ipynb notebook in your preferred environment (recommended Google Colab for GPU).
-* - Load your video and audio files.
+- Open the Wav2Lip.ipynb notebook in your preferred environment (recommended Google Colab for GPU).
+- Load your video and audio files.
 * - Follow the steps to process your video and apply enhancements.
     
 2- User-Friendly Interface:
 
-* - Open the Wave2Lip UI.ipynb notebook for a more interactive experience.
-* - Load your video and audio files.
-* - Use the provided UI to easily process and enhance your videos.
+- Open the Wave2Lip UI.ipynb notebook for a more interactive experience.
+- Load your video and audio files.
+- Use the provided UI to easily process and enhance your videos.
 
 ----------------------------------------
 ## Examples
