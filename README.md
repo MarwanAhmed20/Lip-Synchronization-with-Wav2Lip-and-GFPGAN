@@ -19,7 +19,7 @@ Lip synchronization in videos is crucial for creating realistic and engaging con
 --------------
 
 ## Features
-- * High-Quality Lip Synchronization: Utilizes Wav2Lip for accurate lip-syncing.
+- * * High-Quality Lip Synchronization: Utilizes Wav2Lip for accurate lip-syncing.
 * - Enhanced Visual Quality: Applies GFPGAN to improve the resolution and clarity of videos.
 * - User-Friendly Interface: Includes a UI notebook for easier interaction.
 * - Preprocessing Enhancements: Implements preprocessing steps like freezing mouth movements and trimming audio to enhance the final result.
