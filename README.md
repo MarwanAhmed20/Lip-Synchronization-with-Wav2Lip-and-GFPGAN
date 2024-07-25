@@ -1,14 +1,10 @@
-https://github.com/user-attachments/assets/a1aaa77f-961c-4aac-b80c-856d981ef94c
 
-https://github.com/user-attachments/assets/9b4812fd-7af8-462f-9720-1b4550de2c99
-
-https://github.com/user-attachments/assets/afc9da2f-8d0b-4e48-9454-88c47e2bdef6
 # Enhanced Video Lip-Synchronization with Wav2Lip and GFPGAN
 This repository provides an integration of Wav2Lip and GFPGAN to enhance the resolution and quality of lip-synchronized videos. This combination leverages the lip-syncing capabilities of Wav2Lip and the image enhancement power of GFPGAN to produce high-quality results. Additionally, a user-friendly interface (UI) notebook is provided for easier interaction with the tools.
 -----------------------------------
-|📑 Original Paper|📰 Project Page|🌀 Demo|⚡ Live Testing|📔 Colab Notebook
-|:-:|:-:|:-:|:-:|:-:|
-[Paper](http://arxiv.org/abs/2008.10010) | [Project Page](http://cvit.iiit.ac.in/research/projects/cvit-projects/a-lip-sync-expert-is-all-you-need-for-speech-to-lip-generation-in-the-wild/) | [Demo Video](https://youtu.be/0fXaDCZNOJc) | [Interactive Demo](https://bhaasha.iiit.ac.in/lipsync) | [Colab Notebook](https://colab.research.google.com/drive/1tZpDWXz49W6wDcTprANRGLo2D_EbD5J8?usp=sharing) /[Updated Collab Notebook](https://colab.research.google.com/drive/1IjFW1cLevs6Ouyu4Yht4mnR4yeuMqO7Y#scrollTo=MH1m608OymLH)
+|📑 Original Paper|📔 Colab Notebook
+|:-:|:-:|
+[Paper](http://arxiv.org/abs/2008.10010) | [Project Page](http://cvit.iiit.ac.in/research/projects/cvit-projects/a-lip-sync-expert-is-all-you-need-for-speech-to-lip-generation-in-the-wild/) | [Demo Video](https://youtu.be/0fXaDCZNOJc) | [Interactive Demo](https://bhaasha.iiit.ac.in/lipsync) | [Colab Notebook](https://colab.research.google.com/drive/1A2lF-OfXBu1k2SsGnQiCZBTmpi-PSDZR?usp=sharing) /[UI Collab Notebook](https://colab.research.google.com/drive/1_6DpJnzU35Rew0LHUJUL2lKD4o-biY5M?usp=sharing)
 -------------------------------------------------------------------------------------
 # Introduction
 Lip synchronization in videos is crucial for creating realistic and engaging content. While Wav2Lip provides state-of-the-art lip-syncing capabilities, the visual quality of the output can sometimes be lacking. This project aims to address this by integrating GFPGAN, which enhances the resolution and overall visual quality of the generated videos. The provided UI notebook makes it easier for users to interact with the tools.
@@ -64,8 +60,12 @@ After Enhancement
 - result with many languages: 
 
 * * https://github.com/user-attachments/assets/d34039ba-f6de-496a-ac76-a5ced2debfaa
-* * Uploading 96_E_result.mp4…
-* * Uploading 96_A_result.mp4…
+* * https://github.com/user-attachments/assets/a1aaa77f-961c-4aac-b80c-856d981ef94c
+
+* * https://github.com/user-attachments/assets/9b4812fd-7af8-462f-9720-1b4550de2c99
+
+* * https://github.com/user-attachments/assets/afc9da2f-8d0b-4e48-9454-88c47e2bdef6
+
 
 Conclusion 
 The lip-syncing pipeline using Wav2Lip provides a robust solution for synchronizing lip 
