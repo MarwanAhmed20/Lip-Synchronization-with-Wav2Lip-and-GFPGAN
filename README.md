@@ -1,6 +1,3 @@
-
-https://github.com/user-attachments/assets/2ede8a8f-5179-4c56-bfd5-9b2d3f4fe91a
-
 # Enhanced Video Lip-Synchronization with Wav2Lip and GFPGAN
 
 This repository provides an integration of Wav2Lip and GFPGAN to enhance the resolution and quality of lip-synchronized videos. This combination leverages the lip-syncing capabilities of Wav2Lip and the image enhancement power of GFPGAN to produce high-quality results. Additionally, a user-friendly interface (UI) notebook is provided for easier interaction with the tools.
@@ -64,11 +61,11 @@ Here are some examples of the results you can achieve with this integration:
 https://github.com/user-attachments/assets/a05ee9cb-ef06-427f-bc2a-a16995774b39
 
 
-**original:**
+### **original:**
 
 https://github.com/user-attachments/assets/c68ddc0a-bdb5-4711-9829-6c8c96add1c5
 
-**After Enhancement:**
+### **After Enhancement:**
 
 
 
