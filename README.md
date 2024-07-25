@@ -3,7 +3,7 @@
 This repository provides an integration of Wav2Lip and GFPGAN to enhance the resolution and quality of lip-synchronized videos. This combination leverages the lip-syncing capabilities of Wav2Lip and the image enhancement power of GFPGAN to produce high-quality results. Additionally, a user-friendly interface (UI) notebook is provided for easier interaction with the tools.
 -----------------------------------
 |📑 Original Paper|📔 Colab Notebook |📔 UI Colab Notebook 
-|:-:|:-:|
+|:-:|:-:|:-:|
 [Paper](http://arxiv.org/abs/2008.10010) |  [Colab Notebook](https://colab.research.google.com/drive/1A2lF-OfXBu1k2SsGnQiCZBTmpi-PSDZR?usp=sharing)| [UI Collab Notebook](https://colab.research.google.com/drive/1_6DpJnzU35Rew0LHUJUL2lKD4o-biY5M?usp=sharing)
 -------------------------------------------------------------------------------------
 ## Introduction
@@ -13,7 +13,7 @@ Lip synchronization in videos is crucial for creating realistic and engaging con
 
 --------------
 ## Features
-* - High-Quality Lip Synchronization: Utilizes Wav2Lip for accurate lip-syncing.
+- * High-Quality Lip Synchronization: Utilizes Wav2Lip for accurate lip-syncing.
 * - Enhanced Visual Quality: Applies GFPGAN to improve the resolution and clarity of videos.
 * - User-Friendly Interface: Includes a UI notebook for easier interaction.
 * - Preprocessing Enhancements: Implements preprocessing steps like freezing mouth movements and trimming audio to enhance the final result.
@@ -58,16 +58,16 @@ https://github.com/user-attachments/assets/c68ddc0a-bdb5-4711-9829-6c8c96add1c5
 
 **After Enhancement:**
 - result after freezing:
-* * https://github.com/user-attachments/assets/0d5ce9ca-fe8b-4645-9225-a50ec0b1cc33
+https://github.com/user-attachments/assets/0d5ce9ca-fe8b-4645-9225-a50ec0b1cc33
 
 - result with many languages: 
 
-* * https://github.com/user-attachments/assets/d34039ba-f6de-496a-ac76-a5ced2debfaa
-* * https://github.com/user-attachments/assets/a1aaa77f-961c-4aac-b80c-856d981ef94c
+https://github.com/user-attachments/assets/d34039ba-f6de-496a-ac76-a5ced2debfaa
+https://github.com/user-attachments/assets/a1aaa77f-961c-4aac-b80c-856d981ef94c
 
-* * https://github.com/user-attachments/assets/9b4812fd-7af8-462f-9720-1b4550de2c99
+https://github.com/user-attachments/assets/9b4812fd-7af8-462f-9720-1b4550de2c99
 
-* * https://github.com/user-attachments/assets/afc9da2f-8d0b-4e48-9454-88c47e2bdef6
+https://github.com/user-attachments/assets/afc9da2f-8d0b-4e48-9454-88c47e2bdef6
 
 
 Conclusion 
